@@ -1,0 +1,6 @@
+1. Configure web server, DNS within LAN
+2. Configure IP addresses to routers in PacketTracer. Explore the following messages:
+    a. Ping response
+    b. Destination unreachable
+    c. Request timeout
+    d. Reply
